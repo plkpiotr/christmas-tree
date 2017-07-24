@@ -1,7 +1,7 @@
 #ifndef floor_h
 #define floor_h
 
-#include "Tree.h"
+#include "tree.h"
 
 class Floor {
     static const int LENGTH = 6;
