@@ -18,7 +18,7 @@ Cross-platform, console application written in a contest organised by polish pro
 * Possibility of exporting Christmas card to text file
 ## Software tools
 - Code::Blocks 16.01
-- Notepad++
+- Notepad++ 6.8.7
 ## Structure project's
 - tree.h
 - tree.cpp
