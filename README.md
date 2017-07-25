@@ -1,10 +1,10 @@
 # Christmas Tree
 ![Graphical User Interface](https://user-images.githubusercontent.com/21959354/28546433-04bf2dda-70cb-11e7-8738-42cb5f66e3f3.jpg)
 ## Description
-Cross-platform, console application written in a contest organised by polish programming forum ([Forum Pasja Informatyki](https://forum.pasja-informatyki.pl)) at Christmas in 2016. Participants' job was to create program, script or website showing image or animation in the style of ASCII Art in one of programming languages. The application was in the second place from among a dozen projects.
+Cross-platform, console application written in a contest organised by polish programming forum [[Forum Pasja Informatyki](https://forum.pasja-informatyki.pl)] at Christmas in 2016. Participants' job was to create program, script or website showing image or animation in the style of ASCII Art in one of programming languages. The application was in the second place from among a dozen projects.
 ## Technologies
 - C++:
-  - Standard library (iostream, fstream, iomanip)
+  - Standard library [iostream, fstream, iomanip]
   - Object-oriented programming
   - [-std=c++11]
 ## Features
@@ -27,8 +27,8 @@ Cross-platform, console application written in a contest organised by polish pro
 - main.cpp
 ## How to run?
 You can launch application for a least in different three ways:
-- Download executable file .exe from [releases-windows](https://github.com/plkpiotr/Christmas-Tree/releases/tag/windows) (option for Windows) and then set convenient size font's and size console's (I recommend Window Size 47x60 for Consolas Bold 14)
-- Download Makefile with source code from [releases-linux](https://github.com/plkpiotr/Christmas-Tree/releases/tag/linux) (option for Linux) and then enter into terminal:
+- Download executable file .exe from [releases-windows](https://github.com/plkpiotr/Christmas-Tree/releases/tag/windows) [option for Windows] and then set convenient size font's and size console's [I recommend Window Size 47x60 for Consolas Bold 14]
+- Download Makefile with source code from [releases-linux](https://github.com/plkpiotr/Christmas-Tree/releases/tag/linux) [option for Linux] and then enter into terminal:
   ```sh
   make
   ./christmass-tree
