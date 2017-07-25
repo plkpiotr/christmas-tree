@@ -4,8 +4,8 @@
 Cross-platform, console application written in a contest organised by polish programming forum ([Forum Pasja Informatyki](https://forum.pasja-informatyki.pl)) at Christmas in 2016. Participants' job was to create program, script or website showing image or animation in the style of ASCII Art in one of programming languages. The application was in the second place from among a dozen projects.
 ## Technologies
 - C++:
+  - Standard library (iostream, fstream, iomanip)
   - Object-oriented programming
-  - Standard library
   - [-std=c++11]
 ## Features
 * Decorating the Christmas tree with:
