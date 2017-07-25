@@ -35,7 +35,7 @@ You can launch application for a least in different three ways:
   ```
 - Download only source code and build project in some kind of IDE on your own
 ## Comments
-Condition of correct display is setting monospaced font in the terminal and text file after export.
+Condition of correct display is setting monospaced font in the terminal and text file after exporting.
 ## Links
 [Rules of the contest](https://forum.pasja-informatyki.pl/204706/wyniki-konkurs-swiateczny-wygraj-atrakcyjne-nagrody)  
 [Results of the contest](https://forum.pasja-informatyki.pl/contest/swieta-2016)
