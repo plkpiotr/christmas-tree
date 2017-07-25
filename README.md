@@ -29,11 +29,12 @@ Cross-platform, console application written in a contest organised by polish pro
 You can launch application for a least in different three ways:
 - Download executable file .exe from [releases-windows](https://github.com/plkpiotr/Christmas-Tree/releases/tag/windows) (option for Windows) and then set convenient size font's and size console's (I recommend Window Size 47x60 for Consolas Bold 14)
 - Download Makefile with source code from [releases-linux](https://github.com/plkpiotr/Christmas-Tree/releases/tag/linux) (option for Linux) and then enter into terminal:
+`make` and `./christmass-tree`
   ```sh
   make
   ./christmass-tree
   ```
-- Download only source code and build project in IDE on your own
+- Download only source code and build project in some kind of IDE on your own
 ## Comments
 Condition of correct display is setting monospaced font in the terminal and text file after export.
 ## Links
