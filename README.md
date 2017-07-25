@@ -33,7 +33,7 @@ You can launch application for a least in different three ways:
   make
   ./christmass-tree
   ```
-- Download only source code and build project in your IDE
+- Download only source code and build project in IDE on your own
 ## Comments
 Condition of correct display is setting monospaced font in the terminal and text file after export.
 ## Links
