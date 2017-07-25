@@ -27,8 +27,8 @@ Cross-platform, console application written in a contest organised by polish pro
 - main.cpp
 ## How to run?
 You can launch application for a least in different three ways:
-- Download executable file .exe form [releases](https://github.com/plkpiotr/Christmas-Tree/releases) (option for Windows) and then set convenient size font's and size console's (I recommend Window Size 47x60 for Consolas Bold 14)
-- Download Makefile with source code (option for Linux) and then enter into terminal:
+- Download executable file .exe from [releases](https://github.com/plkpiotr/Christmas-Tree/releases) (option for Windows) and then set convenient size font's and size console's (I recommend Window Size 47x60 for Consolas Bold 14)
+- Download Makefile with source code from [releases](https://github.com/plkpiotr/Christmas-Tree/releases) (option for Linux) and then enter into terminal:
   ```sh
   make
   ./christmass-tree
