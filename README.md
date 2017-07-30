@@ -26,7 +26,7 @@ Cross-platform, console application written in a contest organised by polish pro
 - floor.cpp
 - main.cpp
 ## How to run?
-You can launch application for a least in different three ways:
+You can launch application for example in different three ways:
 - Download executable file .exe from [releases-windows](https://github.com/plkpiotr/Christmas-Tree/releases/tag/windows) [option for Windows] and then set convenient size font's and size console's [I recommend Window Size 47x60 for Consolas Bold 14]
 - Download Makefile with source code from [releases-linux](https://github.com/plkpiotr/Christmas-Tree/releases/tag/linux) [option for Linux] and then enter into terminal:
   ```sh
