@@ -19,7 +19,7 @@ Cross-platform, console application written in a contest organised by polish pro
 ## Software tools
 - Code::Blocks 16.01
 - Notepad++ 6.8.7
-## Structure project's
+## Project structure
 - tree.h
 - tree.cpp
 - floor.h
